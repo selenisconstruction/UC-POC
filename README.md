@@ -2,10 +2,8 @@
 Universal Constructor Engine Proof of Concept
 
 
-# Supply Chain Tracking
-
 #Permits Tracking
 
+#Inspections Tracking
 
-# Inspections Tracking
-
+#Purchase Orders Tracking
